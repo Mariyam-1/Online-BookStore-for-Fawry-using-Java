@@ -5,15 +5,17 @@ A simple, extensible object-oriented Java application that simulates an online b
 
 ## 📦 Features
 
-- Add different types of books to the inventory:
-  - **PaperBook** – has stock and can be shipped
-  - **EBook** – has file type and can be delivered via email
-  - **DemoBook** – not for sale
-- Purchase books by ISBN and quantity
-- Automatically sends books through shipping or email (simulated with print)
-- Remove outdated books based on their publish year
-- Fully extensible: new book types can be added without changing the store logic
-- Console-friendly test output with clean formatting
+- Supports multiple types of books (all inherit from the abstract `Book` class):
+  - **PaperBook** – has stock and can be physically shipped
+  - **EBook** – has a file type and is delivered via email
+  - **DemoBook** – not for sale, for showcase/demo only
+- Add books to the store with full metadata (title, author, ISBN, etc.)
+- Purchase books using ISBN and quantity
+  - Automatically sends PaperBooks to a shipping service (simulated)
+  - Automatically sends EBooks to a mail service (simulated)
+- Removes outdated books based on their publication year
+- Clean, testable console output
+- Easily extensible: new book types can be added without modifying store logic
 
 ## 🏗️ Project Structure
 
