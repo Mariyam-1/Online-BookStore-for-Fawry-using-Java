@@ -31,12 +31,10 @@ A simple, extensible object-oriented Java application that simulates an online b
 
 ## 📐 UML Diagram
 
+[UML.pdf](https://github.com/user-attachments/files/21129196/UML.pdf)
 
 
-👉 View the full UML [here](./docs/uml.png) *(optional)*
 
-
-- Basic terminal / IDE like VS Code, IntelliJ, or Eclipse
 
 ## 📈 Future Improvements
 
