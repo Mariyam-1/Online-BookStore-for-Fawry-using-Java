@@ -28,7 +28,9 @@ A simple, extensible object-oriented Java application that simulates an online b
 ├── QuantumBookStore.java # Manages the inventory and purchase logic
 └── QuantumBookStoreTest.java # Main test class with various scenarios
 ```
+## 🏗 Screenshot from Running App
 
+![Screenshot 2025-07-09 021759](https://github.com/user-attachments/assets/b26cb88e-7683-48f8-a88e-fa2107162ffd)
 
 
 ## 📐 UML Diagram
