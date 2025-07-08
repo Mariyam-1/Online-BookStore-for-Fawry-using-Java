@@ -31,7 +31,8 @@ A simple, extensible object-oriented Java application that simulates an online b
 
 ## 📐 UML Diagram
 
-![UML](https://github.com/user-attachments/assets/89171666-b62d-4b45-8a00-4b1c72e92919)
+![HWH3MsKPXwyz1bdh](https://github.com/user-attachments/assets/81a318dd-e686-44b9-9893-3ce1239c0d2e)
+
 
 
 
